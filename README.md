@@ -36,7 +36,7 @@ export PEER = True && python3-m backend.app
 ```
 npm start
 ```
-**SEED bancend with DATA**
+**SEED backend with DATA**
 ```
 export SEED_DATA=True && python3 -m backend.app
 ```
